@@ -1,4 +1,4 @@
-# Multi-Client-Socket-Programming-Using-pthred
+# Multi-Client-Socket-Programming-Using-pthread
 
 A simple TCP client-server chat application with socket programming. 
 Server can handle multiple clients with the help of multi-threading.
